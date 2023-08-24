@@ -1,4 +1,4 @@
-# Repaying-the-Credit
+# EDA_On_Repaying-the-Credit
 # Problem Statement
 Gold Atlantis a credit-providing firm, observed a rise in the number of defaulters. Now the firm is only interested in those consumers who have a lower probability of becoming a defaulter.
  The aim of this analysis is to help the firm identify those customers who have a lower probability of becoming a defaulter.
